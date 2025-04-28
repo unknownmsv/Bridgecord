@@ -1,9 +1,9 @@
-first install flask
+اfirst install flask
 open terminal and install step by step
 
-pip install flask flask_cors
-pip install request
-pip install discord.py
+clone files in a folder
+then chmod +x bridgecord.sh
+run ./bridgecord.sh
 
 then make a folder download API.py and bot.py drag this to in one folder 
 
