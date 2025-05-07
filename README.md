@@ -1,7 +1,11 @@
 # Bridgecord
 This project make tunnel web to discord
-site you can test app http://unknownmsv.servehttp.com:7070/index.html
 
-this files need a html or android app 
+   **new version 7/5/2025**
 
+      this version i add:
+      html css js 
 
+     new API this api work faster 
+
+     
