@@ -1,25 +1,25 @@
 # Bridgecord
 
-**Bridgecord** یک موتور چت سبک و سریع است که برای اتصال مستقیم بین **وب** و **Discord** طراحی شده. این پروژه با استفاده از تکنولوژی‌های مدرن توسعه داده شده و متن‌باز است تا توسعه‌دهندگان بتوانند به راحتی آن را شخصی‌سازی، گسترش و در پروژه‌های خود استفاده کنند.
+**Bridgecord** is a lightweight and fast chat engine designed to bridge **Web** and **Discord** communication. This open-source project offers an easy-to-use interface, powerful integration capabilities, and expandable architecture for developers looking to enhance their applications.
 
-## ویژگی‌ها
+## Features
 
-- **چت دوطرفه بین وب و Discord**
-- **API RESTful** برای ارسال و دریافت پیام‌ها
-- پنل کاربری ساده برای مدیریت توکن‌ها و پلن‌ها
-- سیستم خرید پلن و اعتبارسنجی کاربران
-- معماری ماژولار و قابل توسعه
-- پشتیبانی از چند زبان (در حال توسعه)
-- **Bridgecord Lite**: نسخه‌ی بهینه‌شده برای دستگاه‌های کم‌قدرت
+- **Real-time chat bridge between Web and Discord**
+- RESTful **API** for sending and receiving messages
+- Built-in panel for token and plan management
+- Simple in-app purchase system for chat plans
+- Modular and developer-friendly architecture
+- Lightweight core (Bridgecord Lite) for low-end devices
+- Multilingual support (coming soon)
 
-## تکنولوژی‌ها
+## Technologies Used
 
 - Python (Flask)
-- Discord.py
-- HTML, CSS, JS (Vanilla)
-- SQLite (قابل تغییر به دیتابیس‌های دیگر)
+- discord.py
+- HTML, CSS, JavaScript (Vanilla)
+- SQLite (can be swapped with other databases)
 
-## راه‌اندازی سریع
+## Quick Setup
 
 ```bash
 git clone https://github.com/unknownmsv/Bridgecord.git
