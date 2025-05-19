@@ -1,23 +1,28 @@
 # Bridgecord
-This project make tunnel web to discord
 
-   **new version 7/5/2025**
+**Bridgecord** یک موتور چت سبک و سریع است که برای اتصال مستقیم بین **وب** و **Discord** طراحی شده. این پروژه با استفاده از تکنولوژی‌های مدرن توسعه داده شده و متن‌باز است تا توسعه‌دهندگان بتوانند به راحتی آن را شخصی‌سازی، گسترش و در پروژه‌های خود استفاده کنند.
 
- this version i add:
-  html css js 
+## ویژگی‌ها
 
-  new API this api work faster 
+- **چت دوطرفه بین وب و Discord**
+- **API RESTful** برای ارسال و دریافت پیام‌ها
+- پنل کاربری ساده برای مدیریت توکن‌ها و پلن‌ها
+- سیستم خرید پلن و اعتبارسنجی کاربران
+- معماری ماژولار و قابل توسعه
+- پشتیبانی از چند زبان (در حال توسعه)
+- **Bridgecord Lite**: نسخه‌ی بهینه‌شده برای دستگاه‌های کم‌قدرت
 
-     
-pkg you need 
+## تکنولوژی‌ها
 
-    pip install flask flask_core
-    pip install discord.py
-    
-termux:
+- Python (Flask)
+- Discord.py
+- HTML, CSS, JS (Vanilla)
+- SQLite (قابل تغییر به دیتابیس‌های دیگر)
 
-    pkg install nodjs
+## راه‌اندازی سریع
 
-linux: 
-
-    sudo apt install nodjs
+```bash
+git clone https://github.com/unknownmsv/Bridgecord.git
+cd Bridgecord
+pip install -r requirements.txt
+python app.py
